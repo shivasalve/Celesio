@@ -1,0 +1,13 @@
+AAA0340G
+
+
+VIC0601U---25022019
+
+ESO0043Y-out of stock
+
+ZAD0013T
+IBU0113K
+
+
+
+tail -100f /branch/606R/rw/B13.DAT
